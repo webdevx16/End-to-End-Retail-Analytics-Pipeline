@@ -1,0 +1,9 @@
+CustomerID,CustomerName,City,State,CustomerTier,SignupDate
+501,Aarav Sharma,Delhi,DL,Platinum,2024-01-31
+502,Diya Patel,Mumbai,MH,Gold,2024-02-29
+503,Kabir Singh,Bangalore,KA,Silver,2024-03-31
+504,Isha Gupta,Hyderabad,TG,Gold,2024-04-30
+505,Rohan Das,Kolkata,WB,Platinum,2024-05-31
+506,Ananya Reddy,Chennai,TN,Silver,2024-06-30
+507,Vivaan Kapoor,Pune,MH,Silver,2024-07-31
+508,Meera Nair,Ahmedabad,GJ,Gold,2024-08-31

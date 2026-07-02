@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,SubCategory,CostPrice,RetailPrice
+101,Alpha Wireless Laptop,Computers,Hardware,800,1200
+102,Ergo Optical Mouse,Accessories,Peripherals,20,45
+103,4K UltraWide Monitor,Displays,Hardware,240,350
+104,Mechanical Backlit Keyboard,Accessories,Peripherals,50,95
+105,Noise-Canceling Headphones,Audio,Peripherals,90,175
+106,USB-C Multi-Port Hub,Accessories,Connectivity,15,35
+107,HD Stream Webcam,Audio,Peripherals,45,89
+108,Ergonomic Desk Chair,Furniture,Office,150,299
