@@ -54,3 +54,13 @@ SELECT
         ORDER BY UnitsSold DESC
     ) AS Product_Internal_Rank
 FROM fact_sales;
+
+---
+
+## 📈 Executive Dashboard Highlights
+
+![Executive Dashboard Preview](dashboard_preview.png)
+
+* **Dynamic Slicers:** Cross-filtering sales performance by customer region and product category.
+* **KPI Metrics:** Instant visibility into overall average sales volume and cumulative gross revenue.
+* **Trend Analysis:** Monitoring product demand curves to identify operational inventory priorities.
